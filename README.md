@@ -31,6 +31,7 @@ Agent가 안정적으로 실행될 수 있도록 Linux 서버 환경을 구성�
 ```text
 컴퓨터가 알아서 자기 상태를 점검하게 만들기/
 ├── README.md
+├── demo.sh
 └── monitor.sh
 ```
 
